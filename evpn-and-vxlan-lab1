@@ -1,4 +1,4 @@
-
+# https://simonbingham.net/evpn-and-vxlan-lab1
 
 set system host-name SPINE1
 set system syslog user * any emergency
